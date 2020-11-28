@@ -1,0 +1,9 @@
+EntityType:
+  - cow
+  - pig
+Entity:
+  cow: 1
+  pig: 1
+PrefixNumber:
+  - "1:&6【初心者】"
+Range: 3

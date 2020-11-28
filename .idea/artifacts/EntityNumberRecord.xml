@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EntityNumberRecord">
+    <output-path>$PROJECT_DIR$/../../Minecraft_1.15.2_Server/plugins</output-path>
+    <root id="archive" name="EntityNumberRecord.jar">
+      <element id="module-output" name="EntityNumberRecord" />
+      <element id="file-copy" path="$PROJECT_DIR$/Config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/PlayerKillEntity.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
